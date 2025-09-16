@@ -52,12 +52,12 @@ const response=await chain.invoke({
 })
 
  console.log(response);
-// console.log(docs[0].pageContent.length);
-// console.log(texts.length);
-// console.log(texts[0].pageContent.length)
-// console.log(texts[1].pageContent.length)
-// console.log(texts[2].pageContent.length)
-// console.log(texts[24].pageContent.length)
+console.log(docs[0].pageContent.length);
+console.log(texts.length);
+console.log(texts[0].pageContent.length)
+console.log(texts[1].pageContent.length)
+console.log(texts[2].pageContent.length)
+console.log(texts[24].pageContent.length)
 
 
 
